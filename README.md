@@ -3,3 +3,5 @@
 - 🌱 Second year CSE student. I’m currently studying at Indian Institute of Information Technology, Raichur which is mentored By Indian Institute of Technology, Hyderabad.
 - 📫 How to reach 
 Email: swamireddymanasa28@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasa-swamireddy&theme=radical)
