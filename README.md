@@ -4,4 +4,4 @@
 - 📫 How to reach 
 Email: swamireddymanasa28@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasa-swamireddy&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=manasa-swamireddy&show_icons=true&theme=radical)
